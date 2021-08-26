@@ -1,0 +1,12 @@
+1) Find a course -> Course number -> Exact match -> Put in a number, "no courses found"
+
+2) program asks twice when you add/find
+
+3) Find -> Units -> asks for string match, but it is supposed to ask for integer match
+
+4) Getting rid of Wildcard match?
+
+5) List -> wrong choice of words, -> Doesn't give a option to re-enter
+
+
+
