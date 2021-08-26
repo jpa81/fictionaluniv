@@ -1,3 +1,0 @@
-/mnt/e/currentdirectory/cmpt125127/cmpt125/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/e/currentdirectory/cmpt125127/cmpt125/test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/e/currentdirectory/cmpt125127/cmpt125/test/cmake-build-debug/CMakeFiles/test.dir
