@@ -11,12 +11,6 @@ John Park, jpa81@sfu.ca, 301279312
 
 Elaine Luu, ela64@sfu.ca , 301392121
 
-Limitations
------------
-
-(if you didn't implement all requested features, list which ones are missing)
-
-
 Known Bugs
 ----------
 
@@ -31,7 +25,7 @@ Extra Features
 
 Wildcard match
 
-'*' matches any sequence of chars, inculing empty string.
-'?' matches any one char.
-'\?', '\*' can escape them.
-'\\' would be '\'
+- '*' matches any sequence of chars, inculing empty string.
+- '?' matches any one char.
+- '\?', '\*' can escape them.
+- '\\' would be '\'
