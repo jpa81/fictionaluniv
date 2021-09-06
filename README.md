@@ -4,12 +4,9 @@ Fictional University
 Names of Team Members
 ---------------------
 
-(include the full names, SFU email addresses, and SFU student numbers of all
-team members)
+John Park, jpa81@sfu.ca
 
-John Park, jpa81@sfu.ca, 301279312
-
-Elaine Luu, ela64@sfu.ca , 301392121
+Elaine Luu, ela64@sfu.ca 
 
 Known Bugs
 ----------
