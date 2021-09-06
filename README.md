@@ -1,5 +1,5 @@
-CMPT 125 Assignment 5
-=====================
+Fictional University
+===============================
 
 Names of Team Members
 ---------------------
